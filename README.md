@@ -50,3 +50,4 @@ CSS                      2 repos             ███░░░░░░░░�
 - Facebook - [Arifin](https://www.facebook.com/febi.arifin.77)
 - Instagram - [febiarifin__](https://www.instagram.com/febiarifin__/)
 - Blog - [https://itdadakan.site](https://itdadakan.site)
+- Email - [febiarifin0@gmail.com](mailto:febiarifin0@gmail.com)
