@@ -1,4 +1,4 @@
-## Hi there, I'm Ryan - aka NyanDev 👋
+## Hi there, I'm Febi Arifin👋
 
 [![Nyancodeid's github stats](https://github-readme-stats.vercel.app/api?username=arifin31)](https://github.com/arifin-ui/arifin-ui)
 
