@@ -47,6 +47,6 @@ CSS                      2 repos             ███░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
-- Facebook - [Arifin](https://facebook.com/arifin)
-- Instagram - [febiarifin__](https://instagram.com/febiarin__)
+- Facebook - [Arifin](https://www.facebook.com/febi.arifin.77)
+- Instagram - [febiarifin__](https://www.instagram.com/febiarifin__/)
 - Blog - [https://itdadakan.site](https://itdadakan.site)
