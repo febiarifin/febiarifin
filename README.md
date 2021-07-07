@@ -1,6 +1,6 @@
-## Hi there, I'm Febi Arifin👋
+## Hi there, I'm Febi Arifin 👋
 
-[![Nyancodeid's github stats](https://github-readme-stats.vercel.app/api?username=arifin31)](https://github.com/arifin-ui/arifin-ui)
+[![Arifin's github stats](https://github-readme-stats.vercel.app/api?username=arifin-ui)](https://github.com/arifin-ui/arifin-ui)
 
 ### I'm a Single Fighter Developer!
 - 🔭 I’m currently working on a ton of side project!
@@ -16,5 +16,5 @@
 
 ### 📫 Contact Me
 - Facebook - [Arifin](https://facebook.com/arifin)
-- Instagram - [febiarifin__](https://facebook.com/febiarifin__)
+- Instagram - [febiarifin__](https://instagram.com/febiarin__)
 - Blog - [https://itdadakan.site](https://itdadakan.site)
