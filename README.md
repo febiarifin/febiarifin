@@ -12,6 +12,38 @@
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Visual Basic .NET** 
+
+```text
+Visual Basic .NET        4 repos             ██████░░░░░░░░░░░░░░░░░░░   26.67% 
+HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+PHP                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33%
+
+```
+
+
+
+ Last Updated on 07/07/2021
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
