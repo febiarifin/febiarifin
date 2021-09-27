@@ -1,6 +1,6 @@
 ## Hi there, I'm Febi Arifin 👋
 
-[![Arifin's github stats](https://github-readme-stats.vercel.app/api?username=arifin-ui)](https://github.com/arifin-ui/arifin-ui)
+[![Arifin's github stats](https://github-readme-stats.vercel.app/api?username=febiarifin)](https://github.com/febiarifin/febiarifin)
 
 <!-- ### I'm a Single Fighter Developer! 
 - 🔭 I’m currently working on a ton of side project!
