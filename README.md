@@ -2,7 +2,7 @@
 
 [![Arifin's github stats](https://github-readme-stats.vercel.app/api?username=febiarifin)](https://github.com/febiarifin/febiarifin)
 
-<!-- ### I'm a Single Fighter Developer! 
+<!-- ### I'm a Single Fighter Developer!
 - 🔭 I’m currently working on a ton of side project!
 - 🌱 I’m currently learning about DevOps specially Docker and K8s
 - 👯 I’m looking to collaborate with other developer
@@ -12,43 +12,45 @@
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Jakarta
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in PHP** 
+**I Mostly Code in PHP**
 
 ```text
-PHP                      5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78% 
-Visual Basic .NET        4 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+PHP                      5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78%
+Visual Basic .NET        4 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22%
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
 CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
 
 ```
 
+Last Updated on 16/01/2022
 
-
- Last Updated on 16/01/2022
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
-- Facebook - [Arifin](https://www.facebook.com/febi.arifin.77)
-- Instagram - [febiarifin__](https://www.instagram.com/febiarifin__/)
+
+<!-- - Facebook - [Arifin](https://www.facebook.com/febi.arifin.77) -->
+
+- Instagram - [febiarifin\_\_](https://www.instagram.com/febiarifin__/)
 - Blog - [https://itdadakan.site](https://itdadakan.site)
 - Email - [febiarifin0@gmail.com](mailto:febiarifin0@gmail.com)
 - WhatsApp - [+628886688732](https://api.whatsapp.com/send?phone=628886688732)
