@@ -14,7 +14,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -45,7 +45,7 @@ Java                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2022 02:32:44 UTC
+ Last Updated on 27/08/2022 02:25:54 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
