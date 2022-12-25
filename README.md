@@ -54,6 +54,6 @@ CSS                      4 repos             ███░░░░░░░░�
 <!-- - Facebook - [Arifin](https://www.facebook.com/febi.arifin.77) -->
 
 - Instagram - [febiarifin\_\_](https://www.instagram.com/febiarifin__/)
-- Blog - [https://itdadakan.site](https://itdadakan.site)
+- LinkedIn - [Febi Arifin](https://www.linkedin.com/in/febiarifin/)
 - Email - [febiarifin0@gmail.com](mailto:febiarifin0@gmail.com)
 - WhatsApp - [+628886688732](https://api.whatsapp.com/send?phone=628886688732)
