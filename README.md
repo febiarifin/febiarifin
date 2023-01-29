@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -46,7 +46,7 @@ Visual Basic .NET        4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/01/2023 01:38:09 UTC
+ Last Updated on 29/01/2023 01:42:15 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
