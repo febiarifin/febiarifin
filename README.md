@@ -20,7 +20,7 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Jakarta
+🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -30,7 +30,6 @@ No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
 
 **I Mostly Code in PHP** 
@@ -40,13 +39,13 @@ PHP                      10 repos            ███████░░░░�
 JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
 HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-
+CSS                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 ```
 
 
 
- Last Updated on 22/02/2023 01:38:53 UTC
+
+ Last Updated on 23/02/2023 01:36:26 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
