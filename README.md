@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -45,7 +45,7 @@ Java                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 17/06/2023 01:35:13 UTC
+ Last Updated on 18/06/2023 01:52:26 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
