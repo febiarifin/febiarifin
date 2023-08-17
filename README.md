@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -45,7 +45,7 @@ Blade                    4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2023 01:07:24 UTC
+ Last Updated on 17/08/2023 01:06:30 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
