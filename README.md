@@ -13,8 +13,6 @@
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -45,7 +43,7 @@ Blade                    4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2023 01:15:27 UTC
+ Last Updated on 07/12/2023 01:15:02 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
