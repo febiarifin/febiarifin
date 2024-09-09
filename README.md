@@ -13,39 +13,22 @@
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      13 repos            █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-HTML                     11 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Kotlin                   11 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-JavaScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-CSS                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+PHP                      14 repos            █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+HTML                     11 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Kotlin                   11 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+JavaScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+CSS                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
 ```
 
 
 
 
- Last Updated on 08/09/2024 01:40:38 UTC
+ Last Updated on 09/09/2024 01:37:19 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
