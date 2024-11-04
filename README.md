@@ -13,8 +13,6 @@
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -45,7 +43,7 @@ CSS                      7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2024 01:46:13 UTC
+ Last Updated on 04/11/2024 01:42:33 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
